@@ -12,7 +12,7 @@ replacements = {
     "arrival 1": "Sun 13 Nov 2026 10:10",
     "arrival 2": "Mon 14 Nov 2026 12:10",
     "CE6666CE": "CE0012CH",
-    "196.61£": "150.00£"
+    "196.61£": "200.00£"
 }
 
 text = template.read_text(encoding="utf-8")
